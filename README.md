@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on my final year dissertation!
-
+🔭 I’m currently an MRes student in Medical Robotics and Image-Guided Intervention
